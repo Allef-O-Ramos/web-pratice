@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Web image" title="Web image" src="https://media.geeksforgeeks.org/wp-content/uploads/20240202114016/Web-Development-Project-Ideas.webp" width="220px" />
+  <img alt="Web image" title="Web image" src="https://media.geeksforgeeks.org/wp-content/uploads/20240202114016/Web-Development-Project-Ideas.webp" width="360px" />
 </h1>
 
 <p align="center">

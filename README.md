@@ -11,8 +11,6 @@
  Repositório para organização de projetos de prática com tecnologias Web
 </p>
 
-<br>
-
 ## Tecnologias
 
 Projetos realizados foram desenvolvidos com as seguintes tecnologias:
@@ -24,7 +22,3 @@ Projetos realizados foram desenvolvidos com as seguintes tecnologias:
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
-
----
-
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)

@@ -10,6 +10,7 @@ function toggleMode() {
   const image = document.querySelector("#profile img")
   if (html.classList.contains("light")) {
     image.setAttribute("src", "./assets/profile1.png")
+    document.documentElement.style.setProperty("--bg-img", newBgImg);
   } else {
     image.setAttribute("src", "./assets/profile.png")
   }
